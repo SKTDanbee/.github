@@ -56,10 +56,10 @@ To be updated
 | 이름   | 역할                                       | 구현                                       |
 | ------ | ------------------------------------------ | ------------------------------------------ |
 | [김현동](https://github.com/miffDONG) 🤨 | **팀장**, AI    | To be updated |
-| [김호준](https://github.com/Hxjxxn95) 😊 | AI, 프론트엔드 | To be updated |
+| [김호준](https://github.com/Hxjxxn95) 😊 | AI, 키패드 | To be updated |
 | [배성욱](https://github.com/uksungbae) 😁 | 백엔드, 프론트엔드                     | To be updated |
 | [손서희](https://github.com/sh1257) 😘 | 프론트엔드, 디자인               | To be updated |
-| [옥지원](https://github.com/JiWonOck) 😯 | 데이터, 백엔드             | To be updated |
+| [옥지원](https://github.com/JiWonOck) 😯 | 데이터, 키패드             | To be updated |
 
 
 ## 6. Link
