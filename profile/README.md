@@ -62,5 +62,5 @@ To be updated
 | [옥지원](https://github.com/JiWonOck) 😯 | 데이터, 백엔드             | To be updated |
 
 
-## 7. Link
+## 6. Link
 To be updated
