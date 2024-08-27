@@ -41,7 +41,7 @@
 - [KcELECTRA](https://github.com/Beomi/KcELECTRA) 를 사용하여 8가지 윤리 및 44가지 감정 라벨링
 
 ### 5-2. 감정과 윤리 분류를 한번에 하는 멀티태스킹이 가능한 BERT
-- [KoSimCSE-BERT-multitask] (https://huggingface.co/BM-K/KoSimCSE-bert-multitask) 활용
+- [KoSimCSE-BERT-multitask](https://huggingface.co/BM-K/KoSimCSE-bert-multitask) 활용
 
 ### 5-3. 프롬프트
 - gpt-4o 모델을 활용
