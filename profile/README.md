@@ -20,14 +20,16 @@
 
 
 [Keypad]
+![최종발표자료](https://github.com/user-attachments/assets/1bdd4e5c-905b-43ce-9bc9-31404616bc25)
 
 [App Report]
+![0901150543612106](https://github.com/user-attachments/assets/db6b7695-7db3-4ac7-b8f3-8837ef5292d4)
 
 ### 4-1. 구현 툴
 
 | Category  | Technologies                                        |
 |-----------|-----------------------------------------------------|
-| AI model  | BERT, ELECTRA, GPT, RAG                             |
+| AI model  | BERT, ELECTRA, RAG, GPT-4o, Prompt Engineering                             |
 | Keypad    | Android Studio                                      |
 | Frontend  | Flutter, Figma                                      |
 | Backend   | Azure, FastAPI, MySQL                               |
@@ -48,6 +50,9 @@
 - 레포트를 위한 3개의 프롬프트 템플릿 제작
   - 사용자 : 언어습관 레포트
   - 보호자 : 사용자의 언어습관 레포트, 사이버 폭력 위험 레포트
+  - point :
+    - 객관성 확보 : 실제 발화에서 비속어 횟수 통계, 발화 내역을 통해 언어, 비속어 사용 습관에 대한 정보를 제공. [내역 문서화 (.txt)]
+    - 참고자료 : kakaotalk, 푸른코끼리
     
 
 ## 6. 팀원 소개
