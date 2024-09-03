@@ -53,9 +53,15 @@
   - point :
     - 객관성 확보 : 실제 발화에서 비속어 횟수 통계, 발화 내역을 통해 언어, 비속어 사용 습관에 대한 정보를 제공. [내역 문서화 (.txt)]
     - 참고자료 : kakaotalk, 푸른코끼리
-    
 
-## 6. 팀원 소개
+## 6. 시연 영상
+
+https://github.com/user-attachments/assets/ac08bcb5-da2e-4b94-a4f2-b56f4fc4a724
+
+
+
+  
+## 7. 팀원 소개
 
 | 이름   | 역할                                       | 
 | ------ | ------------------------------------------ | 
@@ -66,5 +72,5 @@
 | [옥지원](https://github.com/JiWonOck) 😯 | 발표, 데이터             | 
 
 
-## 7. Link
+## 8. Link
 To be updated
