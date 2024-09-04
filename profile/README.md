@@ -30,7 +30,7 @@
 | Category  | Technologies                                        |
 |-----------|-----------------------------------------------------|
 | AI model  | BERT, ELECTRA, RAG, GPT-4o, Prompt Engineering                             |
-| Keypad    | Android Studio                                      |
+| Keypad    | Android native (kotlin)                                      |
 | Frontend  | Flutter, Figma                                      |
 | Backend   | Azure, FastAPI, MySQL                               |
 | CI/CD     | GitHub Actions                                      |
