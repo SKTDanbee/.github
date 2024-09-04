@@ -32,7 +32,7 @@
 | AI model  | BERT, ELECTRA, RAG, GPT-4o, Prompt Engineering                             |
 | Keypad    | Android native (kotlin)                                      |
 | Frontend  | Flutter, Figma                                      |
-| Backend   | Azure, FastAPI, MySQL                               |
+| Backend   | Azure, docker, FastAPI, MySQL                               |
 | CI/CD     | GitHub Actions                                      |
 
 
