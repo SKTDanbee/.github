@@ -74,3 +74,8 @@ https://github.com/user-attachments/assets/ac08bcb5-da2e-4b94-a4f2-b56f4fc4a724
 
 ## 8. Link
 To be updated
+
+
+## 9. Award
+
+K 디지털 트레이닝 해커톤 자유과제부문 - 장관상(최우수상🥇)
