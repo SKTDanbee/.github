@@ -14,7 +14,6 @@
 
 ## 3. 기능
 ![image](https://github.com/user-attachments/assets/a24cb517-f2c1-4cac-aadc-5a1d5115e36d)
-)
 
 ## 4. 시스템 아키텍쳐
 ![22](https://github.com/user-attachments/assets/655f243a-7d4b-46d1-8ea5-f331839a4dcc)
